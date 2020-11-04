@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "*.html": "html"
+    },
+    "files.exclude": {
+        "**/.git": false
     }
 }
